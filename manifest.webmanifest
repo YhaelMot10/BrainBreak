@@ -1,0 +1,10 @@
+{
+  "name": "BrainBreak — Daily Quiz",
+  "short_name": "BrainBreak",
+  "description": "A quick daily brain break with fun quizzes.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#172554",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
